@@ -1,14 +1,12 @@
 {
   "name": "The Club 100 \ud83d\udc8e",
   "description": "The Club 100 is an exclusive NFT collection",
-  "image": "https://cloudflare-ipfs.com/ipfs/QmRGAJd1sQVWntuXMLrPmZ9oiafSvCwsmdGsTVfQ9UiS5D?filename=logo.png",
-  "cover_image": "https://cloudflare-ipfs.com/ipfs/QmdbsS8j8546ZuS43scNzt8TRjBtbTWFhjG49r4edBWzHw?filename=banner.png",
-  "external_link": "https://t.me/punkton",
-  "external_url": "https://t.me/punkton",
+  "image": "https://dao-coder.github.io/club100/logo.png",
+  "cover_image": "https://dao-coder.github.io/club100/banner.png",
+  "external_link": "",
+  "external_url": "",
   "social_links": [
-    "https://twitter.com/tonpunks",
-    "https://t.me/punkton",
-    "https://t.me/TONPunksENG",
-    "https://t.me/+HroiiYy1Tf05Mzgy"
+    "https://www.google.ru/",
+    "https://www.google.ru/"
   ]
 }
