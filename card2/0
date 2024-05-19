@@ -1,0 +1,19 @@
+{
+  "name": "LOL",
+  "description": "FIKE",
+  "image": "https://dao-coder.github.io/club100/card2/image/Close.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "border",
+      "value": "maroon"
+    },
+    {
+      "trait_type": "scribble",
+      "value": "crystal"
+    }
+  ]
+}
