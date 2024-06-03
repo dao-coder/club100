@@ -1,0 +1,19 @@
+{
+  "name": "Card Silver #43",
+  "description": "Silver",
+  "image": "https://dao-coder.github.io/club100/collection2/image/Silver.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "border",
+      "value": "maroon"
+    },
+    {
+      "trait_type": "scribble",
+      "value": "crystal"
+    }
+  ]
+}
